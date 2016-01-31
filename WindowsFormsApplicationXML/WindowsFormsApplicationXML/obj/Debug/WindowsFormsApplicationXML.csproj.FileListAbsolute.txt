@@ -1,0 +1,47 @@
+c:\users\dule11\documents\visual studio 2015\Projects\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.exe.config
+c:\users\dule11\documents\visual studio 2015\Projects\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.exe
+c:\users\dule11\documents\visual studio 2015\Projects\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.pdb
+c:\users\dule11\documents\visual studio 2015\Projects\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.csprojResolveAssemblyReference.cache
+c:\users\dule11\documents\visual studio 2015\Projects\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.Form1.resources
+c:\users\dule11\documents\visual studio 2015\Projects\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.Properties.Resources.resources
+c:\users\dule11\documents\visual studio 2015\Projects\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.csproj.GenerateResource.Cache
+c:\users\dule11\documents\visual studio 2015\Projects\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.exe
+c:\users\dule11\documents\visual studio 2015\Projects\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.pdb
+c:\users\dule11\documents\visual studio 2015\Projects\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\Library1.dll
+c:\users\dule11\documents\visual studio 2015\Projects\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\Library1.pdb
+C:\Users\dule11\Desktop\WindowsFormsApplicationXML - Copy\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.exe.config
+C:\Users\dule11\Desktop\WindowsFormsApplicationXML - Copy\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.exe
+C:\Users\dule11\Desktop\WindowsFormsApplicationXML - Copy\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.pdb
+C:\Users\dule11\Desktop\WindowsFormsApplicationXML - Copy\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.exe
+C:\Users\dule11\Desktop\WindowsFormsApplicationXML - Copy\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.pdb
+C:\Users\dule11\Desktop\WindowsFormsApplicationXML - Copy\WindowsFormsApplicationXML\bin\Debug\Library1.dll
+C:\Users\dule11\Desktop\WindowsFormsApplicationXML - Copy\WindowsFormsApplicationXML\bin\Debug\Library1.pdb
+C:\Users\dule11\Desktop\WindowsFormsApplicationXML - Copy\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.csprojResolveAssemblyReference.cache
+C:\Users\dule11\Desktop\WindowsFormsApplicationXML - Copy\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.Form1.resources
+C:\Users\dule11\Desktop\WindowsFormsApplicationXML - Copy\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.Properties.Resources.resources
+C:\Users\dule11\Desktop\WindowsFormsApplicationXML - Copy\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.csproj.GenerateResource.Cache
+C:\Users\dule11\Desktop\APEX test\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.exe.config
+C:\Users\dule11\Desktop\APEX test\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.exe
+C:\Users\dule11\Desktop\APEX test\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.pdb
+K:\DESKTOP POSLEDNJIIIII\prakse poslato\6. talas\ApexSQL\Test\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.exe.config
+K:\DESKTOP POSLEDNJIIIII\prakse poslato\6. talas\ApexSQL\Test\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.exe
+K:\DESKTOP POSLEDNJIIIII\prakse poslato\6. talas\ApexSQL\Test\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.pdb
+K:\DESKTOP POSLEDNJIIIII\prakse poslato\6. talas\ApexSQL\Test\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.exe
+K:\DESKTOP POSLEDNJIIIII\prakse poslato\6. talas\ApexSQL\Test\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.pdb
+K:\DESKTOP POSLEDNJIIIII\prakse poslato\6. talas\ApexSQL\Test\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\Library1.dll
+K:\DESKTOP POSLEDNJIIIII\prakse poslato\6. talas\ApexSQL\Test\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\Library1.pdb
+K:\DESKTOP POSLEDNJIIIII\prakse poslato\6. talas\ApexSQL\Test\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.csprojResolveAssemblyReference.cache
+K:\DESKTOP POSLEDNJIIIII\prakse poslato\6. talas\ApexSQL\Test\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.Form1.resources
+K:\DESKTOP POSLEDNJIIIII\prakse poslato\6. talas\ApexSQL\Test\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.Properties.Resources.resources
+K:\DESKTOP POSLEDNJIIIII\prakse poslato\6. talas\ApexSQL\Test\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.csproj.GenerateResource.Cache
+C:\Users\dule\Desktop\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.exe.config
+C:\Users\dule\Desktop\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.exe
+C:\Users\dule\Desktop\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.pdb
+C:\Users\dule\Desktop\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.exe
+C:\Users\dule\Desktop\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\WindowsFormsApplicationXML.pdb
+C:\Users\dule\Desktop\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\Library1.dll
+C:\Users\dule\Desktop\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\bin\Debug\Library1.pdb
+C:\Users\dule\Desktop\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.csprojResolveAssemblyReference.cache
+C:\Users\dule\Desktop\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.Form1.resources
+C:\Users\dule\Desktop\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.Properties.Resources.resources
+C:\Users\dule\Desktop\APEX test\APEX test\3\WindowsFormsApplicationXML\WindowsFormsApplicationXML\obj\Debug\WindowsFormsApplicationXML.csproj.GenerateResource.Cache
